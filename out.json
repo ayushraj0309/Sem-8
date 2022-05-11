@@ -1,5 +1,9 @@
 {
       "/in/anupam-agrawal-a822b011/": {
+            "Basic Info": {
+                  "Name": "Anupam Agrawal",
+                  "Location": "Allahabad, Uttar Pradesh, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/search/results/all/?keywords=University+of+Bedfordshire%2C+United+Kingdom",
@@ -38,9 +42,16 @@
                         "Discipline": " Computer Science",
                         "Time Period": "1993 - 1995"
                   }
-            ]
+            ],
+            "Is Student": true,
+            "Is Faculty": true,
+            "Connection Status": "Not Connected"
       },
       "/in/harsh-arora-3a8a0a1a8/": {
+            "Basic Info": {
+                  "Name": "Harsh Arora",
+                  "Location": "Ganganagar, Rajasthan, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/15104374/",
@@ -65,9 +76,16 @@
                         "Discipline": " Computer Science",
                         "Time Period": "2018 - 2022"
                   }
-            ]
+            ],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
       },
       "/in/sambuddha-koner-98732b206/": {
+            "Basic Info": {
+                  "Name": "Sambuddha Koner",
+                  "Location": "Arambag, West Bengal, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/search/results/all/?keywords=Techno+Main+Salt+Lake",
@@ -77,9 +95,16 @@
                         "Time Period": "2020 - 2024"
                   }
             ],
-            "Experience": []
+            "Experience": [],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
       },
       "/in/kapil-tomar-a2b31118b/": {
+            "Basic Info": {
+                  "Name": "Kapil Tomar",
+                  "Location": "Delhi, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/9584148/",
@@ -125,9 +150,16 @@
                         "Discipline": " Computer Science",
                         "Time Period": "2016 - 2020"
                   }
-            ]
+            ],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
       },
       "/in/mitali-seth-4649801a1/": {
+            "Basic Info": {
+                  "Name": "Mitali Seth",
+                  "Location": "Varanasi, Uttar Pradesh, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/15095083/",
@@ -145,9 +177,16 @@
                         "Discipline": " Electrical, Electronics and Communications Engineering",
                         "Time Period": "Jul 2018 - Jun 2022"
                   }
-            ]
+            ],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
       },
       "/in/utkarsh--priyam/": {
+            "Basic Info": {
+                  "Name": "Utkarsh Priyam",
+                  "Location": "Bihar, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/497317/",
@@ -165,9 +204,16 @@
                         "Discipline": " Information Technology",
                         "Time Period": "2018 - 2022"
                   }
-            ]
+            ],
+            "Is Student": true,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
       },
       "/in/sankarsan-bhattacheryya-003526173/": {
+            "Basic Info": {
+                  "Name": "Sankarsan Bhattacheryya",
+                  "Location": "Kolkata, West Bengal, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/621513/",
@@ -206,9 +252,16 @@
                         "Discipline": "None",
                         "Time Period": "2010 - 2016"
                   }
-            ]
+            ],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
       },
       "/in/prateek-m-058795114/": {
+            "Basic Info": {
+                  "Name": "Prateek Mishra",
+                  "Location": "Bhopal, Madhya Pradesh, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/497317/",
@@ -254,9 +307,16 @@
                         "Discipline": " Physics, Chemistry and Mathematics with Computer Science as optional.",
                         "Time Period": "2001 - 2018"
                   }
-            ]
+            ],
+            "Is Student": true,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
       },
       "/in/raunak-rathour-84a7b71aa/": {
+            "Basic Info": {
+                  "Name": "Raunak Rathour",
+                  "Location": "Prayagraj, Uttar Pradesh, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/497317/",
@@ -302,9 +362,16 @@
                         "Discipline": "None",
                         "Time Period": "Apr 2016 - Apr 2018"
                   }
-            ]
+            ],
+            "Is Student": true,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
       },
       "/in/harshit-narula-2a82ba162/": {
+            "Basic Info": {
+                  "Name": "Harshit Narula",
+                  "Location": "Bhiwani, Haryana, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/search/results/all/?keywords=University+School+of+Information+Technology",
@@ -343,9 +410,16 @@
                         "Discipline": " Computer Science",
                         "Time Period": "2016 - 2020"
                   }
-            ]
+            ],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
       },
       "/in/shubham-kumar-7a75851a2/": {
+            "Basic Info": {
+                  "Name": "SHUBHAM KUMAR",
+                  "Location": "Kolkata, West Bengal, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/search/results/all/?keywords=Techno+Main+Salt+Lake",
@@ -369,9 +443,16 @@
                         "Time Period": "Apr 2016 - Feb 2018"
                   }
             ],
-            "Experience": []
+            "Experience": [],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
       },
       "/in/siddhi-singh-8653801b1/": {
+            "Basic Info": {
+                  "Name": "Siddhi Singh",
+                  "Location": "Kolkata, West Bengal, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/search/results/all/?keywords=heritage+institute+of+technology",
@@ -389,9 +470,16 @@
                         "Discipline": " electronics and communication",
                         "Time Period": "2018 - 2022"
                   }
-            ]
+            ],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
       },
       "/in/isha-goel30/": {
+            "Basic Info": {
+                  "Name": "Isha goel",
+                  "Location": "Ghaziabad, Uttar Pradesh, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/9062609/",
@@ -451,9 +539,16 @@
                         "Discipline": "None",
                         "Time Period": "10th"
                   }
-            ]
+            ],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
       },
       "/in/abhi4gupta/": {
+            "Basic Info": {
+                  "Name": "Abhishek Gupta",
+                  "Location": "New Delhi, Delhi, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/497317/",
@@ -506,9 +601,16 @@
                         "Discipline": " General Studies",
                         "Time Period": "2010 - 2017"
                   }
-            ]
+            ],
+            "Is Student": true,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
       },
       "/in/shivam-gupta-52302516b/": {
+            "Basic Info": {
+                  "Name": "Shivam Gupta",
+                  "Location": "West Bengal, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/8128396/",
@@ -540,9 +642,16 @@
                         "Discipline": " Learner",
                         "Time Period": "2017 - 2021"
                   }
-            ]
+            ],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
       },
       "/in/richik-bhattacharjee/": {
+            "Basic Info": {
+                  "Name": "RICHIK BHATTACHARJEE",
+                  "Location": "Kolkata, West Bengal, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/8128396/",
@@ -588,9 +697,16 @@
                         "Discipline": " Computer Science",
                         "Time Period": "2016 - 2020"
                   }
-            ]
+            ],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
       },
       "/in/sougata-das-4132a616b/": {
+            "Basic Info": {
+                  "Name": "Sougata Das",
+                  "Location": "Haora, West Bengal, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/18282907/",
@@ -629,9 +745,16 @@
                         "Discipline": "None",
                         "Time Period": "2009 - 2015"
                   }
-            ]
+            ],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
       },
       "/in/utkarsh-pandey-95015b170/": {
+            "Basic Info": {
+                  "Name": "Utkarsh Pandey",
+                  "Location": "West Bengal, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/8128396/",
@@ -677,9 +800,16 @@
                         "Discipline": " Computer Science and Engineering",
                         "Time Period": "2018 - 2022"
                   }
-            ]
+            ],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
       },
       "/in/aniket-mallick-75572416b/": {
+            "Basic Info": {
+                  "Name": "Aniket Mallick",
+                  "Location": "Kolkata, West Bengal, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/search/results/all/?keywords=Institute+Of+Engineering+and+Management",
@@ -697,9 +827,16 @@
                         "Discipline": " Computer Science",
                         "Time Period": "2018 - 2022"
                   }
-            ]
+            ],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
       },
       "/in/abhirup-das-740981178/": {
+            "Basic Info": {
+                  "Name": "Abhirup Das",
+                  "Location": "Kolkata, West Bengal, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/15123951/",
@@ -738,9 +875,16 @@
                         "Discipline": " Information Technology",
                         "Time Period": "2016 - 2020"
                   }
-            ]
+            ],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
       },
       "/in/subharoop-ghosh-943669150/": {
+            "Basic Info": {
+                  "Name": "Subharoop Ghosh",
+                  "Location": "Haora, West Bengal, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/15125266/",
@@ -772,9 +916,16 @@
                         "Discipline": " Science",
                         "Time Period": "2006 - 2015"
                   }
-            ]
+            ],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
       },
       "/in/dr-sunny-sharma-64887918/": {
+            "Basic Info": {
+                  "Name": "Dr. Sunny Sharma",
+                  "Location": "Prayagraj, Uttar Pradesh, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/search/results/all/?keywords=IIT%28BHU%29%2CVaranasi",
@@ -827,9 +978,16 @@
                         "Discipline": " Electronic Science",
                         "Time Period": "2007 - 2009"
                   }
-            ]
+            ],
+            "Is Student": false,
+            "Is Faculty": true,
+            "Connection Status": "Not Connected"
       },
       "/in/soumabrata-bhattacharya-9b190a1a9/": {
+            "Basic Info": {
+                  "Name": "Soumabrata Bhattacharya",
+                  "Location": "West Bengal, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/18282907/",
@@ -854,9 +1012,16 @@
                         "Discipline": " Information Technology",
                         "Time Period": "2017 - 2021"
                   }
-            ]
+            ],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Not Connected"
       },
       "/in/arun-gangwar-14a428202/": {
+            "Basic Info": {
+                  "Name": "Arun Gangwar",
+                  "Location": "Bareilly, Uttar Pradesh, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/8282089/",
@@ -874,9 +1039,16 @@
                         "Discipline": " Na",
                         "Time Period": "2018 - 2022"
                   }
-            ]
+            ],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Not Connected"
       },
       "/in/avijit-agarwal-06b495148/": {
+            "Basic Info": {
+                  "Name": "Avijit Agarwal",
+                  "Location": "West Bengal, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/search/results/all/?keywords=KALYANI+GOVERNMENT+ENGINEERING+COLLEGE+",
@@ -894,9 +1066,16 @@
                         "Discipline": "None",
                         "Time Period": "Bachelor of Technology, Computer Science"
                   }
-            ]
+            ],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Request Pending"
       },
       "/in/sanyam-garg-22a487135/": {
+            "Basic Info": {
+                  "Name": "Sanyam Garg",
+                  "Location": "Greater Munich Metropolitan Area"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/15249404/",
@@ -963,9 +1142,16 @@
                         "Discipline": "None",
                         "Time Period": "2002 - 2015"
                   }
-            ]
+            ],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Request Pending"
       },
       "/in/anish-goswami-49a3b7185/": {
+            "Basic Info": {
+                  "Name": "Anish Goswami",
+                  "Location": "Bhopal, Madhya Pradesh, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/497317/",
@@ -983,9 +1169,16 @@
                         "Discipline": " Information Technology",
                         "Time Period": "2018 - 2022"
                   }
-            ]
+            ],
+            "Is Student": true,
+            "Is Faculty": false,
+            "Connection Status": "Not Connected"
       },
       "/in/pranal-maheshwari-31a850192/": {
+            "Basic Info": {
+                  "Name": "PRANAL MAHESHWARI",
+                  "Location": "Allahabad, Uttar Pradesh, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/497317/",
@@ -1003,9 +1196,16 @@
                         "Discipline": " Electrical, Electronics and Communications Engineering",
                         "Time Period": "2018 - 2022"
                   }
-            ]
+            ],
+            "Is Student": true,
+            "Is Faculty": false,
+            "Connection Status": "Not Connected"
       },
       "/in/abhigyansharma29/": {
+            "Basic Info": {
+                  "Name": "ABHIGYAN SHARMA",
+                  "Location": "Allahabad, Uttar Pradesh, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/497317/",
@@ -1044,9 +1244,16 @@
                         "Discipline": "None",
                         "Time Period": "None"
                   }
-            ]
+            ],
+            "Is Student": true,
+            "Is Faculty": false,
+            "Connection Status": "Not Connected"
       },
       "/in/blackdchase/": {
+            "Basic Info": {
+                  "Name": "Harsh Kochar",
+                  "Location": "Allahabad, Uttar Pradesh, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/497317/",
@@ -1085,9 +1292,16 @@
                         "Discipline": "None",
                         "Time Period": "None"
                   }
-            ]
+            ],
+            "Is Student": true,
+            "Is Faculty": false,
+            "Connection Status": "Not Connected"
       },
       "/in/shubhankar-raj-457b30231/": {
+            "Basic Info": {
+                  "Name": "Shubhankar Raj",
+                  "Location": "Dehri, Bihar, India"
+            },
             "Education": [
                   {
                         "URL ID": "https://www.linkedin.com/company/15141180/",
@@ -1112,6 +1326,78 @@
                         "Discipline": "None",
                         "Time Period": "Apr 2009 - Apr 2018"
                   }
-            ]
+            ],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
+      },
+      "/in/puja-kumari-948732181/": {
+            "Basic Info": {
+                  "Name": "Puja Kumari",
+                  "Location": "Banka, Bihar, India"
+            },
+            "Education": [
+                  {
+                        "URL ID": "https://www.linkedin.com/company/497317/",
+                        "Insititution": "Indian Institute Of Information Technology",
+                        "Course": "Bachelor of Technology - BTech",
+                        "Discipline": " Information Technology",
+                        "Time Period": "Aug 2018 - 2022"
+                  },
+                  {
+                        "URL ID": "https://www.linkedin.com/search/results/all/?keywords=Simultala+Awasiya+Vidyalaya",
+                        "Insititution": "Simultala Awasiya Vidyalaya",
+                        "Course": "Matriculation ",
+                        "Discipline": " Intermediate",
+                        "Time Period": "Aug 2010 - Mar 2017"
+                  }
+            ],
+            "Experience": [
+                  {
+                        "URL ID": "https://www.linkedin.com/search/results/all/?keywords=Simultala+Awasiya+Vidyalaya",
+                        "Insititution": "Simultala Awasiya Vidyalaya",
+                        "Course": "Matriculation ",
+                        "Discipline": " Intermediate",
+                        "Time Period": "Aug 2010 - Mar 2017"
+                  },
+                  {
+                        "URL ID": "https://www.linkedin.com/search/results/all/?keywords=Simultala+Awasiya+Vidyalaya",
+                        "Insititution": "Simultala Awasiya Vidyalaya",
+                        "Course": "Matriculation ",
+                        "Discipline": " Intermediate",
+                        "Time Period": "Aug 2010 - Mar 2017"
+                  },
+                  {
+                        "URL ID": "https://www.linkedin.com/search/results/all/?keywords=Simultala+Awasiya+Vidyalaya",
+                        "Insititution": "Simultala Awasiya Vidyalaya",
+                        "Course": "Matriculation ",
+                        "Discipline": " Intermediate",
+                        "Time Period": "Aug 2010 - Mar 2017"
+                  },
+                  {
+                        "URL ID": "https://www.linkedin.com/search/results/all/?keywords=Simultala+Awasiya+Vidyalaya",
+                        "Insititution": "Simultala Awasiya Vidyalaya",
+                        "Course": "Matriculation ",
+                        "Discipline": " Intermediate",
+                        "Time Period": "Aug 2010 - Mar 2017"
+                  },
+                  {
+                        "URL ID": "https://www.linkedin.com/search/results/all/?keywords=Simultala+Awasiya+Vidyalaya",
+                        "Insititution": "Simultala Awasiya Vidyalaya",
+                        "Course": "Matriculation ",
+                        "Discipline": " Intermediate",
+                        "Time Period": "Aug 2010 - Mar 2017"
+                  },
+                  {
+                        "URL ID": "https://www.linkedin.com/search/results/all/?keywords=Simultala+Awasiya+Vidyalaya",
+                        "Insititution": "Simultala Awasiya Vidyalaya",
+                        "Course": "Matriculation ",
+                        "Discipline": " Intermediate",
+                        "Time Period": "Aug 2010 - Mar 2017"
+                  }
+            ],
+            "Is Student": true,
+            "Is Faculty": false,
+            "Connection Status": "Not Connected"
       }
 }
