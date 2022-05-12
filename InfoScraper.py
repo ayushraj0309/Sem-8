@@ -1,15 +1,36 @@
 class InfoScraper:
-    def __init__(self, profile_url, logged_in_browser):
-        self.profile_id = Helper.get_profile_id_from_linkedin_url(profile_url)
-        self.profile_url = profile_url
-        self.browser = logged_in_browser
-        self.bs = self.setBroswerAndGetSoup()
-        self.basicProfileInfo = self.getBasicProfileInfo()
-        self.all_experiences = self.getAllExperieceInfo()
-        self.all_educations = self.getAllEducationInfo()
-        self.is_faculty = Helper.is_from_IIITA(self.all_experiences)
-        self.is_student = Helper.is_from_IIITA(self.all_educations)
-        self.profile_status = self.connectionStatus()
+    def __init__(self, *args):
+        if len(args) == 2:
+            profile_url = args[0]
+            logged_in_browser = args[1]
+            self.imported = False
+            self.profile_id = Helper.get_profile_id_from_linkedin_url(profile_url)
+            self.profile_url = profile_url
+            self.browser = logged_in_browser
+            self.bs = self.setBroswerAndGetSoup()
+            self.basicProfileInfo = self.getBasicProfileInfo()
+            self.all_experiences = self.getAllExperieceInfo()
+            self.all_educations = self.getAllEducationInfo()
+            self.is_faculty = Helper.is_from_IIITA(self.all_experiences)
+            self.is_student = Helper.is_from_IIITA(self.all_educations)
+            self.profile_status = self.connectionStatus()
+        elif len(args) == 3:
+            profile_id = args[0]
+            json_dict = args[1]
+            imported = True
+            self.imported = imported
+            self.profile_id = profile_id
+            self.profile_url = Helper.get_profile_url_from_id(profile_id)
+            self.browser = None
+            self.bs = None
+            self.basicProfileInfo = json_dict['Basic Info']
+            self.all_experiences = json_dict['Experience']
+            self.all_educations = json_dict['Education']
+            self.is_faculty = json_dict['Is Student']
+            self.is_student = json_dict['Is Faculty']
+            self.profile_status = json_dict['Connection Status']
+        else:
+            raise Exception("Incorrect Number of Arguements Provided")
 
     def setBroswerAndGetSoup(self):
         self.browser.get(self.profile_url)
@@ -18,6 +39,10 @@ class InfoScraper:
         soup = BeautifulSoup(src, 'lxml')
         return soup
 
+    def refreshStatus(self):
+        self.bs = self.setBroswerAndGetSoup()
+        self.profile_status = self.connectionStatus()
+        
     def connectionStatus(self):
         bs = self.bs
         actions_div = bs.find('div', {'class': 'pvs-profile-actions'})

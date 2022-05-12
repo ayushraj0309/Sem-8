@@ -1,0 +1,160 @@
+{
+      "/in/anupam-agrawal-a822b011/": {
+            "Basic Info": {
+                  "Name": "Anupam Agrawal",
+                  "Location": "Allahabad, Uttar Pradesh, India"
+            },
+            "Education": [
+                  {
+                        "URL ID": "https://www.linkedin.com/search/results/all/?keywords=University+of+Bedfordshire%2C+United+Kingdom",
+                        "Insititution": "University of Bedfordshire, United Kingdom",
+                        "Course": "Post-Doctoral Research Fellow",
+                        "Discipline": " Computer Science",
+                        "Time Period": "2007 - 2009"
+                  },
+                  {
+                        "URL ID": "https://www.linkedin.com/company/497317/",
+                        "Insititution": "Indian Institute Of Information Technology",
+                        "Course": "PhD",
+                        "Discipline": " Computer Science",
+                        "Time Period": "2001 - 2006"
+                  },
+                  {
+                        "URL ID": "https://www.linkedin.com/search/results/all/?keywords=Indian+Institute+of+Technology+Madras",
+                        "Insititution": "Indian Institute of Technology Madras",
+                        "Course": "Master of Technology - MTech",
+                        "Discipline": " Computer Science",
+                        "Time Period": "1993 - 1995"
+                  }
+            ],
+            "Experience": [
+                  {
+                        "URL ID": "https://www.linkedin.com/search/results/all/?keywords=Indian+Institute+of+Technology+Madras",
+                        "Insititution": "Indian Institute of Technology Madras",
+                        "Course": "Master of Technology - MTech",
+                        "Discipline": " Computer Science",
+                        "Time Period": "1993 - 1995"
+                  },
+                  {
+                        "URL ID": "https://www.linkedin.com/search/results/all/?keywords=Indian+Institute+of+Technology+Madras",
+                        "Insititution": "Indian Institute of Technology Madras",
+                        "Course": "Master of Technology - MTech",
+                        "Discipline": " Computer Science",
+                        "Time Period": "1993 - 1995"
+                  }
+            ],
+            "Is Student": true,
+            "Is Faculty": true,
+            "Connection Status": "Not Connected"
+      },
+      "/in/shivam-gupta-52302516b/": {
+            "Basic Info": {
+                  "Name": "Shivam Gupta",
+                  "Location": "West Bengal, India"
+            },
+            "Education": [
+                  {
+                        "URL ID": "https://www.linkedin.com/company/8128396/",
+                        "Insititution": "Jalpaiguri Government  Engineering College",
+                        "Course": "Computer Science & Engineering",
+                        "Discipline": " Learner",
+                        "Time Period": "2017 - 2021"
+                  }
+            ],
+            "Experience": [
+                  {
+                        "URL ID": "https://www.linkedin.com/company/8128396/",
+                        "Insititution": "Jalpaiguri Government  Engineering College",
+                        "Course": "Computer Science & Engineering",
+                        "Discipline": " Learner",
+                        "Time Period": "2017 - 2021"
+                  },
+                  {
+                        "URL ID": "https://www.linkedin.com/company/8128396/",
+                        "Insititution": "Jalpaiguri Government  Engineering College",
+                        "Course": "Computer Science & Engineering",
+                        "Discipline": " Learner",
+                        "Time Period": "2017 - 2021"
+                  },
+                  {
+                        "URL ID": "https://www.linkedin.com/company/8128396/",
+                        "Insititution": "Jalpaiguri Government  Engineering College",
+                        "Course": "Computer Science & Engineering",
+                        "Discipline": " Learner",
+                        "Time Period": "2017 - 2021"
+                  }
+            ],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
+      },
+      "/in/isha-goel30/": {
+            "Basic Info": {
+                  "Name": "Isha goel",
+                  "Location": "Ghaziabad, Uttar Pradesh, India"
+            },
+            "Education": [
+                  {
+                        "URL ID": "https://www.linkedin.com/company/9062609/",
+                        "Insititution": "ABES Engineering College",
+                        "Course": "Bachelor of Technology - BTech",
+                        "Discipline": " Computer Science",
+                        "Time Period": "2018 - 2022"
+                  },
+                  {
+                        "URL ID": "https://www.linkedin.com/search/results/all/?keywords=Holy+Trinity+church+school",
+                        "Insititution": "Holy Trinity church school",
+                        "Course": "12th",
+                        "Discipline": " PCM",
+                        "Time Period": "2017 - 2018"
+                  },
+                  {
+                        "URL ID": "https://www.linkedin.com/search/results/all/?keywords=Holy+Trinity+church+school+",
+                        "Insititution": "Holy Trinity church school",
+                        "Course": "",
+                        "Discipline": "None",
+                        "Time Period": "10th"
+                  }
+            ],
+            "Experience": [
+                  {
+                        "URL ID": "https://www.linkedin.com/search/results/all/?keywords=Holy+Trinity+church+school+",
+                        "Insititution": "Holy Trinity church school",
+                        "Course": "",
+                        "Discipline": "None",
+                        "Time Period": "10th"
+                  },
+                  {
+                        "URL ID": "https://www.linkedin.com/search/results/all/?keywords=Holy+Trinity+church+school+",
+                        "Insititution": "Holy Trinity church school",
+                        "Course": "",
+                        "Discipline": "None",
+                        "Time Period": "10th"
+                  },
+                  {
+                        "URL ID": "https://www.linkedin.com/search/results/all/?keywords=Holy+Trinity+church+school+",
+                        "Insititution": "Holy Trinity church school",
+                        "Course": "",
+                        "Discipline": "None",
+                        "Time Period": "10th"
+                  },
+                  {
+                        "URL ID": "https://www.linkedin.com/search/results/all/?keywords=Holy+Trinity+church+school+",
+                        "Insititution": "Holy Trinity church school",
+                        "Course": "",
+                        "Discipline": "None",
+                        "Time Period": "10th"
+                  },
+                  {
+                        "URL ID": "https://www.linkedin.com/search/results/all/?keywords=Holy+Trinity+church+school+",
+                        "Insititution": "Holy Trinity church school",
+                        "Course": "",
+                        "Discipline": "None",
+                        "Time Period": "10th"
+                  }
+            ],
+            "Is Student": false,
+            "Is Faculty": false,
+            "Connection Status": "Connected"
+      }
+}
